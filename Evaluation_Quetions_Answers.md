@@ -1,0 +1,13 @@
+## Evaluation - Answers
+
+### 1.	Is there any situation that describes an unconventional route taken in your experience?
+
+**` Yes, I have taken kind of unconventional route in my experience. When I started learning automation testing, most people joined formal classes or followed a fixed course. Instead, I learned by watching free YouTube videos and practicing on my own with open-source tools. I tried different websites and wrote my own test scripts, even if they failed many times. This way was not common, but it helped me learn faster and understand real problems better. `**
+
+### 2.	Do you recall a situation where you intensely and relentlessly focused to completa a task(can be professional work or hobby) that helped you grow?
+
+**` I remember one time when I had to finish a task related to functional changes and optimization. I have to adopt the UI changes along with optimization in a short time. I focused on this task, stretch few hours to complete the task. I did not give up, even when I got stuck. In the end, I finished the tasks on time, and client satisfied with the task. This experience made me more confident and improved my technical skills. `**
+
+### 3.	Describe an experience of joining new team, project or environment where there was significant amount of context, information or complexity to absorb in a relatively short period of time.
+
+**` When I joined a new team for a project, there was a lot of information to learn quickly. The project some times it was already running, and I did not know some of the tools or processes. First, I asked my teammates for help and wrote down important points. I focused on learning the most important things first, attending in knowledge transfer meetings and finding the supporting documents, understanding the process, business and tools and technologies after that like to understand framework and setup and start working with coding, testing and reporting bugs. Step by step, I became more comfortable and started helping the team with testing and automation. `**
